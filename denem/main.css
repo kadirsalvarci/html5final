@@ -1,0 +1,15 @@
+ul {
+  list-style-type: square;  /* bu listedeki isareti kare yapti */
+}
+
+li {
+  display: inline-block; /* bu listedeki yan yana  yapti */
+  margin: 0 10px;
+}
+li {
+  float: left;    /* bu listedeki sola yasladi  yapti */
+  margin: 0 20px;
+}
+nav {
+  display: ruby-base;
+}
